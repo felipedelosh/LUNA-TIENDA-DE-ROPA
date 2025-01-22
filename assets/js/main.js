@@ -25,6 +25,12 @@ $( ".class_element" ).hover(function() {
 });
 
 
+$( ".navbar-brand-text" ).hover(function() {
+    $(this).css("color", "#ff6600");
+}).mouseleave(function() {  
+    $(this).css("color", "white");
+});
+
 
 /**
  * Enter a URL and open in new tab

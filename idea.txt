@@ -5,6 +5,11 @@
 5 - las imagenes de los productos tienen que estar estanariadas (480x640) y seran mostradas en (384x512)
 
 
+Color dominante de la página:
+
+naranja: #ff6600
+
+
 Distribución de la página:
 
 + Novedades: Se muestran los últimos productos.
