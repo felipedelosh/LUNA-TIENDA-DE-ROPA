@@ -5,4 +5,17 @@
 5 - las imagenes de los productos tienen que estar estanariadas (480x640) y seran mostradas en (384x512)
 
 
+Distribución de la página:
+
++ Novedades: Se muestran los últimos productos.
++ TIENDA: Se muestran todos los productos.
++ Hombres: Se muestran los productos para hombres.
++ Mujeres: Se muestran los productos para mujeres.
++ Ofertas: que hay en descuento.
++ Acerca de: vamos a mostrar una corta historia de la marca de ropa.
++ Contacto: se muestra nombre, ubicación, whatsapp, correo.
+
++ PESTAÑA de carrito.
+
+
 https://es.wix.com/website-template/view/html/2240?originUrl=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fonline-store%2Ffashion-clothing&tpClick=view_button&esi=e04874b9-a568-4aff-8885-7e97c0d5fe50
