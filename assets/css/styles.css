@@ -36,10 +36,16 @@
     padding: 10px 20px;
 }
 
-
-
 .page-title{
     margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.news-container p {
+    text-decoration: underline;
+    text-decoration-color: #ff6600;
+    text-decoration-thickness: 4px; /* Ajusta el grosor del subrayado */
+    text-underline-offset: 6px; /* Ajusta la distancia del subrayado al texto */
 }
 
 
