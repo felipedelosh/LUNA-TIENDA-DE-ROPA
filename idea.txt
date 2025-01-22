@@ -1,0 +1,8 @@
+1 - lo primero que se tiene que ver son productos para comprar... o al menos estar bien visibles.
+2 - tiene que tener un sistema el cual permita acumular productos y que todos se envíen a un whatsapp
+3 - redes sociales Instagram y whatsapp
+4 - cuando se haga hoover la imagen del producto cambia.
+5 - las imagenes de los productos tienen que estar estanariadas (480x640) y seran mostradas en (384x512)
+
+
+https://es.wix.com/website-template/view/html/2240?originUrl=https%3A%2F%2Fes.wix.com%2Fwebsite%2Ftemplates%2Fhtml%2Fonline-store%2Ffashion-clothing&tpClick=view_button&esi=e04874b9-a568-4aff-8885-7e97c0d5fe50
