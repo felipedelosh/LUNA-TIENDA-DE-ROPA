@@ -145,12 +145,19 @@ END FOOTER
 /*!
 ======================================================
 */
-.btn-bottom-floating{
-    height: 50px;
-    width: 50px;
+.floating-button-whatsapp{
 	position: fixed;
-	bottom: 10%;
-	right: 10%;
+	bottom: 5%;
+	right: 5%;
 	transition: all 300ms ease 0ms;
 	z-index: 99;
+    background-color: #25d366;
+    border-radius: 50%;
+    padding: 1%;
+}
+
+.floating-button-whatsapp svg{
+    height: 40px;
+    width: 40px;
+    color: white;
 }
