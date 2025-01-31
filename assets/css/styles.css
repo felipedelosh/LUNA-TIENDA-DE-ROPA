@@ -27,7 +27,9 @@
     color: white;
     text-align: center;
     padding: 20px 0;
+    margin-bottom: 1%;
 }
+
 .promo-banner button {
     border: 2px solid white;
     color: white;
@@ -41,12 +43,45 @@
     margin-bottom: 2%;
 }
 
-.news-container p {
+.page-title p {
     text-decoration: underline;
     text-decoration-color: #ff6600;
     text-decoration-thickness: 4px; /* Ajusta el grosor del subrayado */
     text-underline-offset: 6px; /* Ajusta la distancia del subrayado al texto */
 }
+
+
+.products-list {
+    display: flex; /* Para alinear los productos en fila */
+    flex-wrap: wrap; /* Permite que se ajusten en varias líneas si es necesario */
+    gap: 20px; /* Espaciado entre productos */
+    list-style: none; /* Elimina los estilos de lista */
+    padding: 0;
+}
+
+.product-item {
+    background-color: #f5f5f5; /* Fondo gris claro */
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    width: 200px; /* Ancho fijo para cada producto */
+}
+
+.product-item img {
+    width: 100%; /* Imagen adaptable al contenedor */
+    border-radius: 5px;
+}
+
+.product-name {
+    font-weight: bold;
+    margin: 10px 0 5px;
+}
+
+.product-price {
+    color: #ff6600; /* Color naranja */
+    font-size: 1.1em;
+}
+
 
 
 /*!
