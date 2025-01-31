@@ -73,6 +73,16 @@
     border-radius: 5px;
 }
 
+.product-name {
+    font-weight: bold;
+    margin: 10px 0 5px;
+}
+
+.product-price {
+    color: #ff6600; /* Color naranja */
+    font-size: 1.1em;
+}
+
 
 /*!
 Father Effects
