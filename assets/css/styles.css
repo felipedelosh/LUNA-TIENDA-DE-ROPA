@@ -52,11 +52,12 @@
 
 
 .products-list {
-    display: flex; 
-    flex-wrap: wrap; 
-    gap: 20px; 
-    list-style: none; 
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px; /* Espaciado entre productos */
+    list-style: none;
     padding: 0;
+    justify-content: center;
 }
 
 .product-item {
@@ -64,24 +65,13 @@
     padding: 10px;
     text-align: center;
     border-radius: 5px;
-    width: 200px;
+    width: 100%;
 }
 
 .product-item img {
     width: 100%;
     border-radius: 5px;
 }
-
-.product-name {
-    font-weight: bold;
-    margin: 10px 0 5px;
-}
-
-.product-price {
-    color: #ff6600; 
-    font-size: 1.1em;
-}
-
 
 
 /*!
